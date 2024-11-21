@@ -8,7 +8,7 @@ eureka:
     service-url:
       defaultZone: http://eureka-server:8761/eureka/
 
-basic:
+oscar-service:
   ribbon:
     eureka:
       enabled: false
