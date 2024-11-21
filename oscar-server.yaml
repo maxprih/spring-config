@@ -12,7 +12,7 @@ oscar-service:
   ribbon:
     eureka:
       enabled: false
-    NIWSServerListClassName: com.bebra.oscarserver.configuration.ConsulServerList
+    NIWSServerListClassName: org.bebra.oscarserver.configuration.ConsulServerList
     ServerListRefreshInterval: 1000
 
 ribbon:
