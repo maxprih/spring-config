@@ -17,4 +17,4 @@ movie-service:
 
 ribbon:
   client:
-    name: client
+    name: movie-service
